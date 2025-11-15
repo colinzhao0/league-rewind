@@ -6,7 +6,7 @@ DEMO:
 
 [![Demo video](https://img.youtube.com/vi/gavkIN8jR3U/0.jpg)](https://youtu.be/gavkIN8jR3U)
 
-A playful, League of Legends-inspired season summary dashboard built with React for the client and a Node.js backend. The UI is themed with neon/gold accents and a scrollytelling layout that displays one stat per full-screen section.
+- Note: I did not deploy this project because the Riot API key used for server requests must be regenerated every 24 hours, which prevents a stable public deployment without a riot developer key.
 
 ## Project structure
 
@@ -56,8 +56,6 @@ IMPORTANT: If a Riot API key was ever committed to this repository, revoke it im
   - Deploy the backend to a process host (Render, Railway, Heroku) and point the frontend to that host.
 
 - Environment variables should be set in the host dashboard (Vercel/Render) rather than committed.
-
-- Note: I did not deploy this project because the Riot API key used for server requests must be regenerated every 24 hours, which prevents a stable public deployment without a different API strategy.
 
 ## Design & features
 
