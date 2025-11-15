@@ -3,6 +3,7 @@
 
 <!-- Demo video: clickable YouTube thumbnail -->
 DEMO:
+
 [![Demo video](https://img.youtube.com/vi/gavkIN8jR3U/0.jpg)](https://youtu.be/gavkIN8jR3U)
 
 A playful, League of Legends-inspired season summary dashboard built with React for the client and a Node.js backend. The UI is themed with neon/gold accents and a scrollytelling layout that displays one stat per full-screen section.
